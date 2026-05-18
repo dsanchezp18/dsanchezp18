@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Daniel 👋
 
-<!--
-**dsanchezp18/dsanchezp18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an economist and statistical analyst based in Edmonton, Alberta ● 🇨🇦. I work as an **Economic Analyst** at the Government of Alberta's Office of Statistics and Information  I'm also **Co-Director of [LIDE](https://laboratoriolide.org/)**, a research nonprofit focused on quantitative social science in Ecuador. 
 
-Here are some ideas to get you started:
+  ### My tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages and tools**: R (mostly), Julia, Python, SQL, Stata, etc.
+- **Econometrics & ML**: scikit-learn, XGBoost, NNs, causal inference (DiD, RD, IV), time series (ARIMA, VAR), etc.
+- **AI & Agentic**: Claude Code, GitHub Copilot, Cursor, OpenAI Codex
+
+  ### Find me
+
+  🌐 [danielstats.io](https://danielstats.io) · 💼 [LinkedIn](https://www.linkedin.com/in/dsanchezp18/) · 📧 dsanchezp998@gmail.com
